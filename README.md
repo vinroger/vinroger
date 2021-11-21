@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###STATS
+### STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinroger)](https://github.com/vinroger/github-readme-stats)
+<br>
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=vinroger&layout=compact)](https://github.com/vinroger/vinroger)
 
