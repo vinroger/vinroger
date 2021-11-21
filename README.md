@@ -7,7 +7,7 @@ I love making online products and services, looking forward to build any project
 
 📫 vincentiusrkuswara@gmail.com
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:vincentiusrkuswara@gmail.com)]
+[![test](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:vincentiusrkuswara@gmail.com)]
 
 
 <!--
