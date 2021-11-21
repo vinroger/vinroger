@@ -5,6 +5,7 @@ I am passionate in full-stack web development, currently still mastering my skil
 
 I love making online products and services, looking forward to build any projects, feel free to contact me if you want to build projects with me!
 
+
 <a href="mailto:vincentiusrkuswara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vincentius-roger-kuswara-727972158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
@@ -23,5 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinroger)](https://github.com/vinroger/github-readme-stats)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=vinroger&layout=compact)](https://github.com/vinroger/vinroger)
 
