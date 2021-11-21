@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am 1st-year student at the Singapore University of Technology and Design (SUTD) enrolled in Computer Science and Design major (CSD).
+I am passionate in full-stack web development, currently still mastering my skills in front-end design.
+
+I love making online products and services, looking forward to build any projects, feel free to contact me if you want to build projects with me!
+
+📫 vincentiusrkuswara@gmail.com
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:vincentiusrkuswara@gmail.com)]
+
+
 <!--
 **vinroger/vinroger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
