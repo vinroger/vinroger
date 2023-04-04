@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am 1st-year student at the Singapore University of Technology and Design (SUTD) enrolled in Computer Science and Design major (CSD).
+I am 2nd-year student at the Singapore University of Technology and Design (SUTD) enrolled in Computer Science and Design major (CSD).
 I am passionate in full-stack web development, currently still mastering my skills in front-end design.
 
 I love making online products and services, looking forward to build any projects, feel free to contact me if you want to build projects with me!
