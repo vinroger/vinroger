@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinroger" alt="vinroger" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/vinroger2" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/vinroger2?logo=twitter&style=for-the-badge" alt="https://x.com/vinroger2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/vinroger2" target="blank"><img src="https://img.shields.io/twitter/follow/vinroger2" alt="https://x.com/vinroger2" /></a> </p>
+
+<h3>Resume Link https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view</h3>
+<h3>About Me</h3>
 
 - 🔭 I’m currently working on [Uimagine.io](https://uimagine.io)
 
@@ -17,9 +20,9 @@
 
 - 📫 How to reach me **vincentiusrkuswara@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view](https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view)
+- 📄 Know about my experiences, RESUME LINK: [https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view](https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view)
 
-- ⚡ Fun fact **I running 2 SaaS startups now**
+- ⚡ Fun fact **I running 2 SaaS startups now** (Uimagine.io and OneLLM.co)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
