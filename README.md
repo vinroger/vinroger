@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinroger&label=Profile%20views&color=0e75b6&style=flat" alt="vinroger" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinroger" alt="vinroger" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/https://x.com/vinroger2" target="blank"><img src="https://img.shields.io/twitter/follow/vinroger2" alt="https://x.com/vinroger2" /></a> </p>
 
-<h3>Resume Link https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view</h3>
+<h3 align="left">Know more about me: https://vinroger.com</h3>
+
 <h3>About Me</h3>
 
 - 🔭 I’m currently working on [Uimagine.io](https://uimagine.io)
@@ -16,11 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://vinroger.com](https://vinroger.com)
 
-- 💬 Ask me about **Next.js, Typescript, React**
+- 💬 Ask me about **React.js, Typescript, Java, Go**
 
 - 📫 How to reach me **vincentiusrkuswara@gmail.com**
-
-- 📄 Know about my experiences, RESUME LINK: [https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view](https://drive.google.com/file/d/1GvWxdIPyfQ2JWodc0RbrdtImYlWMhkcO/view)
 
 - ⚡ Fun fact **I running 2 SaaS startups now** (Uimagine.io and OneLLM.co)
 
