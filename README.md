@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋, I'm Roger</h1>
-<h4 align="left">Fullstack Developer. Final year student at Singapore University of Technology and Design.</h3>
+<h2 align="left">Hello! I'm Roger 👋</h1>
+<h4 align="left">A full-stack Developer.</h4>
+<h4 align="left">A final year Computer Science student at Singapore University of Technology and Design (SUTD).</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinroger&label=Profile%20views&color=0e75b6&style=flat" alt="vinroger" /> </p>
 
