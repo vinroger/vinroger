@@ -11,6 +11,12 @@
 
 <h3>About Me</h3>
 
+- Final year at SUTD, Computer Science
+- Latest CGPA: 4.96/5.00
+- Honours List Awardee for Academic Year 2022/2023, 2021/2022
+
+- Looking for full-time opportunity in 2025!
+
 - 🔭 I’m currently working on [Uimagine.io](https://uimagine.io)
 
 - 🌱 I’m currently learning **Elixir, WebRTC**
