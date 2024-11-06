@@ -11,8 +11,8 @@
 
 ### 🚀 Featured Open-source Contributions
 
-- [✨ nextui-org/nextui (ongoing)](https://github.com/nextui-org/nextui/pull/4000): Implemented a virtualized list to significantly enhance the performance of autocomplete components. Reduced latency from **10 seconds to sub-milliseconds**.
-- [📊 quick-median](https://www.npmjs.com/package/quick-median): Developed an npm package for calculating the median of an array with an **O(n)** average time complexity using the **Floyd-Rivest algorithm**. Achieved a **consistent 5.7x faster performance** compared to the most popular existing npm package, `median`.
+- [✨ nextui-org/nextui (ongoing) ↗](https://github.com/nextui-org/nextui/pull/4000): Implemented a virtualized list to significantly enhance the performance of autocomplete components. Reduced latency from **10 seconds to sub-milliseconds**.
+- [📊 quick-median ↗](https://www.npmjs.com/package/quick-median): Developed an npm package for calculating the median of an array with an **O(n)** average time complexity using the **Floyd-Rivest algorithm**. Achieved a **consistent 5.7x faster performance** compared to the most popular existing npm package, `median`.
 
 
 
@@ -26,9 +26,9 @@
 - 👀 Actively seeking **Software Engineering (SWE) opportunities in 2025!**  
 
 ### 🌟 Projects and Skills  
-- 🔭 I’m currently working on [Uimagine.io](https://uimagine.io)  
+- 🔭 I’m currently working on [Uimagine.io ↗](https://uimagine.io)  
 - 🌱 I’m currently learning **Elixir, WebRTC**  
-- 👨‍💻 All of my projects are available at [https://vinroger.com](https://vinroger.com)  
+- 👨‍💻 All of my projects are available at [https://vinroger.com ↗](https://vinroger.com)  
 - 💬 Ask me about **React.js, TypeScript, Java, Go**  
 - 📫 How to reach me: **vincentiusrogerk@gmail.com**  
 - ⚡ Fun fact: **I am running 2 SaaS startups** (Uimagine.io and OneLLM.co)  
