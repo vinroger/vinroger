@@ -5,9 +5,9 @@
 
 
 
-<p align="left"> <a href="https://x.com/vinroger2" target="blank"><img src="https://img.shields.io/twitter/follow/vinroger2" alt="https://x.com/vinroger2" /></a> </p>
+<p align="left"> <a href="https://x.com/vinroger2" target="_blank"><img src="https://img.shields.io/twitter/follow/vinroger2" alt="https://x.com/vinroger2" /></a> </p>
 
-<h4 align="left">Portfolio website: https://vinroger.com</h3>
+<h4 align="left"><a href="https://vinroger.com" target="_blank">Portfolio website ↗ </a></h3>
 
 ### 🚀 Featured Open-source Contributions
 
