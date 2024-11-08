@@ -15,7 +15,12 @@
 - [✨ nextui-org/nextui (ongoing) ↗](https://github.com/nextui-org/nextui/pull/4000): Implemented a virtualized list to significantly enhance the performance of autocomplete components. Reduced latency from **10 seconds to sub-milliseconds**.
 - [📊 quick-median ↗](https://www.npmjs.com/package/quick-median): Developed an npm package for calculating the median of an array with an **O(n)** average time complexity using the **Floyd-Rivest algorithm**. Achieved a **consistent 5.7x faster performance** compared to the most popular existing npm package, `median`.
 
+### 🚀 Featured Startup Projects
 
+- [🌉 Uimagine.io (new version launching soon)](https://uimagine.io/): AI-powered website builder. Prompt your website and we generate it within seconds. After that deploy to your custom domain!
+- [🏙 Redev by Uimagine.io ↗](https://uimagine.io/): Generate any front-end components with prompts. Iterate quickly without opening your code editor. Support multiple design libraries.
+- [🤖 Onellm ↗](https://onellm.co/): No-code LLM fine-tuning platform and Analytics. Test your fine-tune LLM performance, record your users' usage and prompts, evaluate performance, import your training dataset and iterate quickly with your LLM.
+- 📝 CompleterAI (on development, launching in Q1 2025): Chrome extenstion that will let you autocomplete your writing on EVERY web platform. We auto-detect your keyboard input on any \<input\>, \<textarea\> and generate auto-complete. Single press tab to immediately apply the suggestion.
 
 
 <h3>About Me</h3>
