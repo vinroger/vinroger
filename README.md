@@ -12,7 +12,13 @@
 
 ### 🚀 Featured Open-source Contributions
 
-- [✨ nextui-org/nextui (Merged) ↗](https://github.com/nextui-org/nextui/pull/4094): Implemented a virtualized list to significantly enhance the performance of autocomplete components. Reduced latency from **10 seconds to sub-milliseconds**.
+- [✨ nextui-org/nextui ↗](https://github.com/nextui-org/nextui)
+  
+  Modern UI library with 2M+ npm downloads monthly and 22.2k GitHub stars.
+  Implemented a virtualized list to significantly enhance the performance of multiple components. Reduced latency from **10 seconds to sub-milliseconds**.
+  - https://github.com/nextui-org/nextui/pull/4094
+  - https://github.com/nextui-org/nextui/pull/4206
+  - https://github.com/nextui-org/nextui/pull/4203
 - [📊 quick-median ↗](https://www.npmjs.com/package/quick-median): Developed an npm package for calculating the median of an array with an **O(n)** average time complexity using the **Floyd-Rivest algorithm**. Achieved a **consistent 5.7x faster performance** compared to the most popular existing npm package, `median`.
 
 ### 🚀 Featured Startup Projects
