@@ -9,7 +9,7 @@
 
 <h4 align="left"><a href="https://vinroger.com" target="_blank">Portfolio website ↗ </a></h3>
 
-### 🚀 Featured Open-source Contributions
+### 🚀 Open-source Contributions
 
 - [✨ nextui-org/nextui ↗](https://github.com/nextui-org/nextui)
   
@@ -20,7 +20,7 @@
   - https://github.com/nextui-org/nextui/pull/4203
 - [📊 quick-median ↗](https://www.npmjs.com/package/quick-median): Developed an npm package for calculating the median of an array with an **O(n)** average time complexity using the **Floyd-Rivest algorithm**. Achieved a **consistent 5.7x faster performance** compared to the most popular existing npm package, `median`.
 
-### 🚀 Featured Projects (not a startup :D)
+### 🚀 Projects
 
 - [🌉 Uimagine.io (new version launching soon)](https://uimagine.io/): AI-powered website builder. Prompt your website and we generate it within seconds. After that deploy to your custom domain!
 - [🏙 Redev by Uimagine.io ↗](https://uimagine.io/): Generate any front-end components with prompts. Iterate quickly without opening your code editor. Support multiple design libraries.
@@ -31,34 +31,15 @@
 <h3>About Me</h3>
 
 ### 🎓 Education  
-- Final year at **SUTD, Computer Science**  
-- Latest CGPA: **4.96/5.00**  
+- Valedictorian **SUTD, Computer Science**, Class of 2025
 - Honours List Awardee for Academic Year **2022/2023, 2021/2022**  
-- 👀 Actively seeking **Software Engineering (SWE) opportunities in 2025!**  
-
-### 🌟 Projects and Skills  
-- 🔭 I’m currently working on [Uimagine.io ↗](https://uimagine.io)  
-- 🌱 I’m currently learning **Elixir, WebRTC**  
-- 👨‍💻 All of my projects are available at [https://vinroger.com ↗](https://vinroger.com)  
-- 💬 Ask me about **React.js, TypeScript, Java, Go**  
-- 📫 How to reach me: **vincentiusrogerk@gmail.com**  
-- ⚡ Fun fact: **I am running 2 cool projects (not a startup)** (Uimagine.io and OneLLM.co)  
-
-### 💼 Internships  
-- 🏢 **Singtel Singapore**   
-  Software Developer Intern, 2024 Management Associate Program Internship (MAPi), Singapore  
-- 🌍 **Terrascope, Olam Group Singapore**  
-  Full-stack Developer Intern, Singapore  
-- 🔬 **Datature Singapore**  
-  Full-stack Developer Intern, Singapore
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/vinroger2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vinroger2" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/vinroger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vinroger2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vincentius-roger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vincentius-roger/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vincentiusrkuswara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vincentiusrkuswara/" height="30" width="40" /></a>
 </p>
 
 <!---
