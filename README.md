@@ -20,7 +20,7 @@
 
 ### Work
 
-- **TikTok Search**, Software Engineer II (since Jun 2025). Tech owner of [TikTok AI Canvas ↗](https://www.reddit.com/r/TikTokSearchInsights/comments/1qptp4o/for_creators_who_love_to_share_photos_ai_canvas/), which turns a topic and a few photos into a carousel post.
+- **TikTok Search**, Software Engineer since June 2025. Shipping features for TikTok vertical search and local service, doing performance optimization in almost everywhere, and building agentic AI and search direction in 2026. Previously also a tech owner of [TikTok AI Canvas ↗] special project (https://www.reddit.com/r/TikTokSearchInsights/comments/1qptp4o/for_creators_who_love_to_share_photos_ai_canvas/).
 - **HeroUI (YC S24)**, founding engineer of [HeroUI Chat ↗](https://heroui.chat): a vibe coding platform that turns prompts into React apps.
   - Built it to production in **2.5 months**. It reached Product Hunt's **#1 Product of the Day**.
 
