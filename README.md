@@ -1,5 +1,5 @@
 <h2 align="left">Hello! I'm Roger 👋</h2>
-<h4 align="left">Software Engineer @ TikTok Search · Singapore</h4>
+<h4 align="left">Software Engineer @ <img src="https://www.vinroger.com/tiktok-color.png" width="16" height="16" alt="TikTok" /> TikTok Search · Singapore</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinroger&label=Profile%20views&color=0e75b6&style=flat" alt="vinroger" /> </p>
 
@@ -20,13 +20,17 @@
 
 ### Work
 
-- **TikTok Search**, Software Engineer since June 2025. Shipping features for TikTok vertical search and local service, doing performance optimization in almost everywhere, and building agentic AI and search direction in 2026. Previously also a tech owner of [TikTok AI Canvas ↗] special project (https://www.reddit.com/r/TikTokSearchInsights/comments/1qptp4o/for_creators_who_love_to_share_photos_ai_canvas/).
-- **HeroUI (YC S24)**, founding engineer of [HeroUI Chat ↗](https://heroui.chat): a vibe coding platform that turns prompts into React apps.
+- <img src="https://www.vinroger.com/tiktok-color.png" width="16" height="16" alt="TikTok" /> **TikTok Search**, Software Engineer since June 2025.
+  - Shipping features for TikTok vertical search and local services.
+  - Doing performance optimization almost everywhere.
+  - Building agentic AI and the agentic search direction in 2026.
+  - Previously tech owner of the [TikTok AI Canvas ↗](https://www.reddit.com/r/TikTokSearchInsights/comments/1qptp4o/for_creators_who_love_to_share_photos_ai_canvas/) special project.
+- <img src="https://www.vinroger.com/heroui.png" width="16" height="16" alt="HeroUI" /> **HeroUI (YC S24)**, founding engineer of [HeroUI Chat ↗](https://heroui.chat): a vibe coding platform that turns prompts into React apps.
   - Built it to production in **2.5 months**. It reached Product Hunt's **#1 Product of the Day**.
 
 ### Open-source Projects
 
-- [heroui-inc/heroui ↗](https://github.com/heroui-inc/heroui): added list virtualization to three components of the library (**2M+ monthly npm downloads**).
+- <img src="https://www.vinroger.com/heroui.png" width="16" height="16" alt="HeroUI" /> [heroui-inc/heroui ↗](https://github.com/heroui-inc/heroui): added list virtualization to three components of the library (**2M+ monthly npm downloads**).
   - With 10,000 items, Autocomplete delay fell from about **5 seconds to milliseconds**.
   - Autocomplete [#4094](https://github.com/heroui-inc/heroui/pull/4094) · Select [#4203](https://github.com/heroui-inc/heroui/pull/4203) · Listbox [#4206](https://github.com/heroui-inc/heroui/pull/4206)
 - [quick-median ↗](https://www.npmjs.com/package/quick-median): an npm package that finds the median of an array in **O(n)** average time with the **Floyd-Rivest** algorithm.
